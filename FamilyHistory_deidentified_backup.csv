@@ -1,0 +1,171 @@
+﻿MEDREC_NUM,SPECIMEN_ID,docsectiontitle,accession_date,Report
+1,S1,LAB AP CLINICAL INFORMATION,1/1/2018,Strong family history of cancer
+2,S2,Clinical Diagnosis,1/2/2018,Clinical History:  family history of colon CA.  Polyp.
+3,S3,Clinical Diagnosis,1/3/2018,Clinical History:  Elevated PSA (6.0) and (+) family history.  BPH vol. = 14 cm 3.  
+4,S4,Clinical Diagnosis,1/4/2018,Clinical History:  family history of polyps.  Operative Findings/Clinical Diagnosis:  Polyps.  
+5,S5,Clinical Diagnosis,1/5/2018,"Clinical History:  Elevated PSA = 8.53, (+) family history (brother).  "
+6,S6,Clinical Diagnosis,1/6/2018,XX-year-old female with pancytopenia and family history of multiple myeloma. 
+7,S7,LAB AP CLINICAL INFORMATION,1/7/2018,family history of varian ca
+8,S8,Clinical Diagnosis,1/8/2018,Clinical History:  family history of ovarian cancer.
+9,S9,Clinical Diagnosis,1/9/2018,"Clinical History: family history of breast cancer
+"
+10,S10,LAB AP CLINICAL INFORMATION,1/10/2018,13-year-old female with a family history of hyperparathyroid jaw tumor syndrome.
+11,S11,Clinical Diagnosis,1/11/2018,"Clinical History:  Abdominal bloating, family history of colon cancer"
+12,S12,Clinical Diagnosis,1/12/2018, Clinical History:  family history of colon cancer.
+13,S13,LAB AP CLINICAL INFORMATION,1/13/2018,family history of bladder cancer
+14,S14,Clinical Diagnosis,1/14/2018,"Clinical History:  Screening colonoscopy, family history of colon cancer, history of colitis.  "
+15,S15,Clinical Diagnosis,1/15/2018," 46-year-old man with rising PSA (now 3.6), family history of prostate
+carcinoma."
+16,S16,Clinical Diagnosis,1/16/2018,Clinical History:  BRCA 1 mutation positive with family history of breast carcinoma.  
+17,S17,Clinical Diagnosis,1/17/2018,Clinical History:  family history of colon carcinoma.  Operative Findings/Clinical History:  Polyp.  
+18,S18,Clinical Diagnosis,1/18/2018,38-year-old female patient with family history of sickle-cell disease.
+19,S19,Clinical Diagnosis,1/19/2018,"
+54-year-old with history of increased IgM, increased viscosity. family history of myeloma"
+20,S20,Clinical Diagnosis,1/20/2018,Clinical History:  Strong family history of breast cancer. 
+21,S21,Clinical Diagnosis,1/21/2018,"family history of breast CA.
+"
+22,S22,Clinical Diagnosis,1/22/2018,"Clinical history:  Gastritis, family history of gastric cancer.
+"
+23,S23,Clinical Diagnosis,1/23/2018,family history of MEN
+24,S24,Clinical Diagnosis,1/24/2018,"family history of melanoma 709.9
+"
+25,S25,Clinical Diagnosis,1/25/2018,"Breast cancer, family history of ovarian cancer.
+"
+26,S26,Clinical Diagnosis,1/26/2018,"Clinical History:  Breast cancer, strong family history.  "
+27,S27,Clinical Diagnosis,1/27/2018,"Strong family history of breast cancer.
+"
+28,S28,Clinical Diagnosis,1/28/2018,"Dense tissue within nodule. family history of thyroid cancer. FNA right mid thyroid nodule benign.
+"
+29,S29,Clinical Diagnosis,1/29/2018,"High risk of breast cancer, strong family history of malignant neoplasm of the breast.  
+"
+30,S30,Clinical Diagnosis,1/30/2018," Excision of multiple nevi.  Suspicious nevi in white male with family history
+of skin carcinoma."
+31,S31,LAB AP CLINICAL INFORMATION,1/31/2018,family history of ovarian cancer
+32,S32,Clinical Diagnosis,2/1/2018,Clinical History:  family history of polyps.  Operative Findings/Clinical Diagnosis:  Polyp. 
+33,S33,Clinical Diagnosis,2/2/2018, family history of melanoma.
+34,S34,Clinical Diagnosis,2/3/2018,"Left complex ovarian cyst, family history of ovarian cancer.
+"
+35,S35,Clinical Diagnosis,2/4/2018,Clinical History:  family history of colon carcinoma.  Screening colonoscopy.  
+36,S36,Clinical Diagnosis,2/5/2018,"Clinical history:  family history of ovarian cancer, chronic pelvic pain and stress incontinence.
+"
+37,S37,Clinical Diagnosis,2/6/2018, family history of Hodgkin's disease.
+38,S38,Clinical Diagnosis,2/7/2018,72-year-old female with prior villous adenoma and family history CRC with multiple polyps.
+39,S39,Clinical Diagnosis,2/8/2018,Clinical History:  family history of polyps.  Operative Findings/Clinical Diagnosis:  Polyps
+40,S40,Clinical Diagnosis,2/9/2018,Clinical History:  50-year-old female with family history of melanoma.  Rule out atypical nevus.  
+41,S41,Clinical Diagnosis,2/10/2018,"Clinical History:  Strong family history of breast carcinoma, failed right breast implant.  "
+42,S42,Clinical Diagnosis,2/11/2018, family history of colon cancer.
+43,S43,Clinical Diagnosis,2/12/2018,family history of colon carcinoma
+44,S44,Clinical Diagnosis,2/13/2018,Clinical History:  family history of colon cancer.  Operative Findings/Clinical Diagnosis:  Polyps.  
+45,S45,Clinical Diagnosis,2/14/2018," History of ovarian cysts, and endocervical polyps.  family history mother with
+ovarian cancer."
+46,S46,Clinical Diagnosis,2/15/2018,"Strong family history of thyroid cancer, colon cancer."
+47,S47,Clinical Diagnosis,2/16/2018,27-year-old female patient.  Rule out atypical nevus; family history of melanoma. 
+48,S48,Clinical Diagnosis,2/17/2018, family history of breast cancer.
+49,S49,LAB AP CLINICAL INFORMATION,2/18/2018,"Per EMR, H. pylori history Breast Ca ATM carrier family history of cancer"
+50,S50,Clinical Diagnosis,2/19/2018,"family history of gastric ca
+"
+51,S51,Clinical Diagnosis,2/20/2018, 10 year old with family history of colonic polyposis.
+52,S52,Clinical Diagnosis,2/21/2018,Clinical History:  family history of colon cancer.   Operative Findings:  Polyps.  
+53,S53,Clinical Diagnosis,2/22/2018,"Clinical History:  family history of breast cancer, acquired absence of bilateral breast "
+54,S54,Clinical Diagnosis,2/23/2018,Clinical History:  family history of polyps.  Operative Findings/Clinical Diagnosis:  Polyp.  
+55,S55,Clinical Diagnosis,2/24/2018,"family history of diffuse gastric cancer
+"
+56,S56,Clinical Diagnosis,2/25/2018,"The patient is a 21-year-old female with a family history of colon cancer, abdominal pain."
+57,S57,Clinical Diagnosis,2/26/2018,Clinical History:  family history of breast cancer.  BRCA mutation.  
+58,S58,LAB AP CLINICAL INFORMATION,2/27/2018,Previous ADH excised; family history of ovarian ca
+59,S59,Clinical Diagnosis,2/28/2018,Clinical Diagnosis:  family history of breast carcinoma and for carcinoma breast gene.  
+60,S60,Clinical Diagnosis,3/1/2018,Clinical History:  family history of colon cancer.  Operative Findings/Clinical History:  Polyps. 
+61,S61,Clinical Diagnosis,3/2/2018,"Right thyroid nodule, benign appearing, family history of thyroid cancer
+"
+62,S62,LAB AP CLINICAL INFORMATION,3/3/2018,3 previous benign biopsies;  previous atypia on right; strong family history of breast ca
+63,S63,Clinical Diagnosis,3/4/2018,"Clinical history:  family history of breast and ovarian cancer.  BRCA1 mutation gene.  
+"
+64,S64,Clinical Diagnosis,3/5/2018,Clinical Diagnosis:  Extremely strong family history of breast carcinoma and ovarian cancer.  
+65,S65,Clinical Diagnosis,3/6/2018,"family history of colon cancer. 
+"
+66,S66,Clinical Diagnosis,3/7/2018,Clinical History:  48-year-old male with rectal cancer.  Strong family history of cancer.  
+67,S67,Clinical Diagnosis,3/8/2018,"family history of colon cancer. 
+"
+68,S68,Clinical Diagnosis,3/9/2018,Clinical History:  family history of cancer 
+69,S69,Clinical Diagnosis,3/10/2018,"Clinical History:  family history of gastric carcinoma, rule out dysplasia "
+70,S70,Clinical Diagnosis,3/11/2018,"Clinical/Pre-Operative/Treatment History: No family history of ca
+"
+71,S71,Clinical Diagnosis,3/12/2018,Clinical History:  family history of polyps.  Operation:  Polypectomy.
+72,S72,Clinical Diagnosis,3/13/2018,Clinical History:  family history of colon cancer.  Operative Findings/Clinical Diagnosis:  Polyp.  
+73,S73,Clinical Diagnosis,3/14/2018,Clinical History:  family history of colon cancer.
+74,S74,Clinical Diagnosis,3/15/2018,"family history of ovarian and breast ca.
+Reason For PAP Procedure: Diagnostic
+"
+75,S75,Clinical Diagnosis,3/16/2018,"family history of colon cancer
+"
+76,S76,Clinical Diagnosis,3/17/2018,"Long history of  increased IgM, family history of myeloma"
+77,S77,Clinical Diagnosis,3/18/2018,"The patient is a 55-year-old male with abnormal SPEP, elevated IgG, IgM, family history of myeloma."
+78,S78,Clinical Diagnosis,3/19/2018,"family history of gastric cancer. 
+"
+79,S79,Clinical Diagnosis,3/20/2018,Clinical History:  family history of breast carcinoma.  
+80,S80,Clinical Diagnosis,3/21/2018, Previous history of melanoma and family history of melanoma.  Dysplastic nevi.
+81,S81,Clinical Diagnosis,3/22/2018,"family history of malignant neoplasm of colon
+"
+82,S82,Clinical Diagnosis,3/23/2018,Clinical History:  family history of polyps.  Operative Findings/Clinical Diagnosis:  Polyps. 
+83,S83,Clinical Diagnosis,3/24/2018,family history of colon adenoma.
+84,S84,Clinical Diagnosis,3/25/2018,family history of pancreas cancer
+85,S85,Clinical Diagnosis,3/26/2018,Positive family history of breast cancer.
+86,S86,Clinical Diagnosis,3/27/2018,Clinical History:  Patient strong family history of ovarian cancer.  
+87,S87,Clinical Diagnosis,3/28/2018,Clinical History:  family history of thyroid carcinoma 
+88,S88,Clinical Diagnosis,3/29/2018,"Clinical History:  Right breast papilloma, history of papilloma and family history of BRCA."
+89,S89,Clinical Diagnosis,3/30/2018,Clinical History:  family history of breast and ovarian carcinoma 
+90,S90,Clinical Diagnosis,3/31/2018,Clinical History:  Most suspicious of several clusters.  No family history of breast cancer.  
+91,S91,Clinical Diagnosis,4/1/2018, family history of cancer
+92,S92,Clinical Diagnosis,4/2/2018,Clinical History:  History of melanoma  Numerous atypical nevi.  family history of melanoma.  
+93,S93,Clinical Diagnosis,4/3/2018,Clinical History:  Screening colonoscopy.  family history of colon cancer.  
+94,S94,Clinical Diagnosis,4/4/2018,Clinical History:  family history of polyps.  Operative Findings/Clinical Diagnosis:  Polyp. 
+95,S95,Clinical Diagnosis,4/5/2018,"Clinical history:  family history of breast CA.
+"
+96,S96,Clinical Diagnosis,4/6/2018,37-year-old male with family history of malignant melanoma
+97,S97,Clinical Diagnosis,4/7/2018,"family history of colon cancer; ascending colon polyp biopsy
+"
+98,S98,Clinical Diagnosis,4/8/2018,family history of ovarian cancer
+99,S99,LAB AP CLINICAL INFORMATION,4/9/2018,Strong family history of brest ca; abnormal MR enhancing lesion
+100,S100,Clinical Diagnosis,4/10/2018,Clinical History:  Strong family history and risk for ovarian cancer.  Prophylactic surgery.  
+101,S101,LAB AP CLINICAL INFORMATION,4/11/2018,family history of cancer
+102,S102,Clinical Diagnosis,4/12/2018,Clinical History: family history of polyps.  Operative Findings/Clinical Diagnosis: Polyps. 
+103,S103,Clinical Diagnosis,4/13/2018,"family history colon cancer
+"
+104,S104,Clinical Diagnosis,4/14/2018,Clinical History:  Healthy volunteer with family history of breast carcinoma. IRB#02164.   
+105,S105,Clinical Diagnosis,4/15/2018,Clinical History:  History of dysplastic nevus.  family history of melanoma.  
+106,S106,Clinical Diagnosis,4/16/2018,"Clinical History:  3 cm. solid RUL, stable, rule out lung carcinoma, strong family history "
+107,S107,Clinical Diagnosis,4/17/2018,Clinical History:  Breast carcinoma.  family history of breast cancer.  
+108,S108,Clinical Diagnosis,4/18/2018,"Right thyroid nodule.
+family history of thyroid cancer."
+109,S109,Clinical Diagnosis,4/19/2018,"Clinical History: High risk ovarian cancer with family history
+"
+110,S110,Clinical Diagnosis,4/20/2018,Clinical History:  family history of polyps.  Operative Findings/Clinical Diagnosis:  Polyp.
+111,S111,Clinical Diagnosis,4/21/2018,"Strong family history of ovarian cancer
+"
+112,S112,Clinical Diagnosis,4/22/2018, family history of colon carcinoma.  Polyp (sigmoid).  Colonoscopy.
+113,S113,Clinical Diagnosis,4/23/2018,Clinical History:  High risk and family history of ovarian carcinoma
+114,S114,Clinical Diagnosis,4/24/2018,"family history of breast carcinoma.
+ "
+115,S115,Clinical Diagnosis,4/25/2018,Clinical History:  family history of colon cancer.  Clinical Diagnosis:  Polyps.
+116,S116,Clinical Diagnosis,4/26/2018,"family history of colon cancer.
+"
+117,S117,Clinical Diagnosis,4/27/2018,"Pelvic tumor, young patient with family history of colon cancer."
+118,S118,Clinical Diagnosis,4/28/2018,Clinical History:  family history of colon cancer.  Operative Findings/Clinical Diagnosis:  Polyp.  
+119,S119,Clinical Diagnosis,4/29/2018, Left axillary lymphadenopathy.  Strong family history of breast carcinoma.
+120,S120,Clinical Diagnosis,4/30/2018,Strong family history of multiple brain/breast tumor.
+121,S121,Clinical Diagnosis,5/1/2018,"Clinical History:  Screening colonoscopy, family history of colon carcinoma "
+122,S122,LAB AP CLINICAL INFORMATION,5/2/2018,"Screening for malignant neoplasm of colon, family history of malignant neoplasm of digestive organs"
+123,S123,Clinical Diagnosis,5/3/2018,"Clinical History:  family history of colon carcinoma, rule out malignancy.  Intermittent diarrhea.  "
+124,S124,Clinical Diagnosis,5/4/2018,"Local events, right breast CA, family history of breast CA
+"
+125,S125,Clinical Diagnosis,5/5/2018,"family history of ovarian cancer.
+"
+126,S126,Clinical Diagnosis,5/6/2018,"Clinical history:  Symptomatic uterine fibroids, family history of appendiceal CA.
+"
+127,S127,Clinical Diagnosis,5/7/2018,"The patient is a 61 year-old female with a neck mass and a family history of GI malignancy.
+"
+128,S128,Clinical Diagnosis,5/8/2018,Clinical History:  family history of cancer
+129,S129,Clinical Diagnosis,5/9/2018,Clinical History:  family history of polyps.  Operative Findings/Clinical Diagnosis:  Polyp.  
+130,S130,Clinical Diagnosis,5/10/2018,"Clinical History:  Status post bilateral mastectomies, family history of carcinoma of breast "
+131,S131,Clinical Diagnosis,5/11/2018,"Breast cancer, family history of ovarian cancer. 
+"
